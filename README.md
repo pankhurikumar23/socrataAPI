@@ -3,7 +3,7 @@ API Documentation: https://dev.socrata.com/consumers/getting-started.html
 
 sodapy: https://github.com/xmunoz/sodapy
 
-The [Socrata Open Data API](https://dev.socrata.com/) (SODA) is used to access goverment data from across the US and other countries. It also has data related to NGOs and non-profits. The NYC Open Data is entirely on Socrata, and Socrata maintains that it has multiple other open data sets, so if you need to work with government data, Socrata could be one of the starting points for it.
+The [Socrata Open Data API](https://dev.socrata.com/) (SODA) is used to access goverment data from across the US and other countries. It also has data related to NGOs and non-profits. The entire list of regions that you can find data on, using Socrata API, can be found under the "Geographical Regions" [here](https://www.opendatanetwork.com/). The NYC Open Data is entirely on Socrata, and Socrata maintains that it has multiple other open data sets, so if you need to work with government data, Socrata could be one of the starting points for it.
 
 SODA is a RESTful API, and uses HTTP methods to work with data. More information on these HTTP words (GET, POST, PUT, DELETE) [here](https://dev.socrata.com/docs/verbs.html).
 
